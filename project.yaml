@@ -1,0 +1,22 @@
+schema_version: 1
+id: smart-study-guide
+name: 智学向导
+portfolio: 未确认品牌
+initiative: 学习工具
+product: Smart Study Guide
+status: active
+stage: ai-studio-web-app
+owner: longwei
+repository:
+  provider: github
+  url: https://github.com/Lakelong/smart-study-guide
+  default_branch: main
+source_of_truth:
+  context: PROJECT_CONTEXT.md
+  status: PROJECT_STATUS.md
+  tasks: TASKS.md
+  product: README.md
+external_app:
+  provider: google-ai-studio
+  url: https://ai.studio/apps/8c6d8061-6147-46aa-8453-aabafa0b74a8
+next_step: 明确产品范围、数据边界与主要流程验收

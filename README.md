@@ -2,13 +2,18 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 智学向导（Smart Study Guide）
 
-This contains everything you need to run your app locally.
+面向学习规划与引导的 AI Studio Web 应用。
+
+- GitHub: https://github.com/Lakelong/smart-study-guide
+- 默认分支：`main`
+- 项目状态：`PROJECT_STATUS.md`
+- 唯一任务队列：`TASKS.md`
 
 View your app in AI Studio: https://ai.studio/apps/8c6d8061-6147-46aa-8453-aabafa0b74a8
 
-## Run Locally
+## 本地运行
 
 **Prerequisites:**  Node.js
 
